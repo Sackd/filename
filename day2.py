@@ -5,7 +5,7 @@ def my_abs(x):
         return 2
 
 
-#list是可变的有序集合
+#list是可变的有序集合a
 classmates = ['Michael', 'Bob', 'Tracy']
 #print(classmates)
 a=len(classmates)
