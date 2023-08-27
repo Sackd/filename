@@ -1,6 +1,7 @@
 #index文件夹
-import os
-def main(rootPath):
-    files1 = os.listdir(rootPath)
-    #print(files)
-main("d:\py\index")
+def leic(i):
+    sum = 0
+    for x in range(i):
+        sum = sum + x
+    return sum
+#print(leic(101))
