@@ -17,3 +17,4 @@ jobs:
           ls ${{ github.workspace }}
       - run: echo "🍏 This job's status is ${{ job.status }}."
       - run: python test/test.py
+      - run: python test/test2.py
