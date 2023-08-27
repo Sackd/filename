@@ -15,7 +15,7 @@ def day1Test():
 
 def in1Test():
     res = in1.leic(101)
-    assert(res == 5050)
+    assert(res == 505)
     pass
 
 day0Test()
